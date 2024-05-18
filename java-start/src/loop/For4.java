@@ -1,0 +1,13 @@
+package loop;
+
+public class For4 {
+    public static void main(String[] args) {
+        for (int i = 0 ; i <3 ; i++) {
+            System.out.println("외부i= " + i);
+            for (int j =0 ; j <3 ; j++) {
+                System.out.println("내부j= " + j);
+            }
+            System.out.println();
+        }
+    }
+}
