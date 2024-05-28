@@ -1,4 +1,4 @@
-package pracClass.Ex;
+/*package pracClass.Ex;
 
 public class Dicegame {
     public static void main(String[] args) {
@@ -59,3 +59,4 @@ public class Dicegame {
     }
 }
 
+*/

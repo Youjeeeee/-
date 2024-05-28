@@ -1,6 +1,6 @@
 package pracClass.Ex;
 
-public class DiceEx2 {
+/*public class DiceEx2 {
     public static void main(String[] args) {
         Dice dice1 = new Dice();
         Dice dice2 = new Dice();
@@ -47,6 +47,6 @@ class Hamo2 {
 
     }
 }
-
+*/
 
 

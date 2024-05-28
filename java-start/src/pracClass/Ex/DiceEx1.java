@@ -1,5 +1,5 @@
 package pracClass.Ex;
-
+/* 리팩토링중 주석처리
 public class DiceEx1 {
     public static void main(String[] args) {
         Dice dice1 = new Dice();
@@ -27,6 +27,8 @@ public class DiceEx1 {
     }
 }
 
+
+
 class Dice {
     int diceNum;
 
@@ -41,9 +43,9 @@ class Dice {
 
         diceNum = (int) (Math.random() * 6) + 1;
     }
-
-
 }
+*/
+
 class Hamonizer {
     public Hamonizer() {
     }
